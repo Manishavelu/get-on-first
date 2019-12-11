@@ -1,0 +1,663 @@
+@media only screen and (min-device-width : 1450px) and (max-device-width : 1920px)
+{
+  #bg-head
+{ 
+background-image: url(../images/large.jpg);
+background-position: center;
+}
+
+}
+@media only screen and  (min-device-width : 992px) and (max-device-width : 1024px) {
+  .navbar-nav {
+    background-color: transparent;
+  }
+  .nav-item
+{ 
+  margin-right: 20px;
+}
+
+.heading-content
+  {
+    position:static;
+    margin-top: 130px;
+    padding-left: 0px;
+    text-align: center;
+  }
+  .serviceHeading h1
+  {
+    font-size: 90px;
+    padding-left: 0px;
+  }
+  .hovereffect h2
+  {
+    font-size: 20px;
+  }
+  .innerConnect {
+    
+    margin: 15px;
+    background-color: #fff;
+    padding: 13px;
+}
+.innerConnect h1
+{
+  font-size: 30px;
+  text-transform: uppercase;
+
+}
+.innerConnect i {
+
+    
+    font-size: 22px;
+    margin-top: 10px;
+    line-height:32px;
+    
+}
+.innerConnect p
+{
+  font-size: 17px;
+  margin-top: 0px;
+  padding: 3px;
+  line-height: 22px;
+}
+#portfolio
+{
+  height: auto;
+}
+.contentsPortfolio {
+    padding: 50px 0px 50px 0px;
+    
+}
+.Service-in-black {
+    padding: 120px 0px 0px 40px;
+    height:auto;
+    
+}
+.innerServices {
+    padding: 40px 30px;
+    
+}
+#serviceTotal h2
+{
+  font-size: 27px;
+}
+#web-design h3
+{
+  font-size: 60px;
+}
+.headingAll h3
+{
+  font-size: 30px;
+}
+#getQuoteDiv
+{
+  background-image:none;
+  background-color: #000;
+  height:auto;
+  background-size:100% ;
+ background-repeat: no-repeat;
+  background-position: right;
+  padding-bottom: 40px;
+  
+}
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 991px) {
+
+
+.navbar-nav 
+{
+  background-color: rgba(0,0,0,0.7);
+  padding-left: 10px;
+  padding-bottom: 15px;
+}
+#bg-head
+{ 
+background-position:center;
+}
+.serviceHeading h1 {
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 10px;
+    padding:10px;
+    color: #000;
+    text-align:center;
+}
+ .breakContent br
+   {
+     display: none;
+   }
+   .hovereffect h2
+   {
+    font-size: 15px;
+    padding-top: 3%;
+   }
+   .innerConnect {
+    
+    margin: 8px;
+    background-color: #fff;
+    padding: 0px;
+}
+.innerConnect h1
+{
+  font-size: 23px;
+  text-transform: uppercase;
+
+}
+.innerConnect i {
+    
+    font-size: 18px;
+    
+}
+.innerConnect p
+{
+  font-size: 13px;
+  margin-top: 0px;
+  padding: 3px;
+  line-height: 20px;
+}
+.innerConnect a
+{
+  font-size: 10px;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+.contentsPortfolio {
+    padding: 50px 0px 50px 0px;
+    height: auto;
+}
+#portfolio
+{
+  height: auto;
+}
+.contentsPortfolio h1
+{
+  font-size: 34px;
+}
+#footer p
+{
+  font-size: 14px;
+}
+#footer li
+{
+  font-size: 14px;
+}
+ .heading-content
+  {
+    position:static;
+    margin-top: 130px;
+    padding-left: 0px;
+    text-align: center;
+  }
+  .logo h1
+  {
+    padding-left: 0px;
+  }
+  .about p
+  {
+    font-size: 13px;
+  }
+#serviceTotal h1 {
+    
+    font-size: 35px;
+    
+}
+.Service-in-black {
+    padding: 220px 0px 0px 40px;
+    height:auto;
+    
+}
+.innerServices {
+    padding: 40px 30px;
+    
+}
+#serviceTotal h2
+{
+  font-size: 27px;
+}
+#web-design h3
+{
+  font-size: 40px;
+}
+#web-design, #seo, #smo, #smm, #ppc, #marketing {
+    padding: 70px 0px 50px 0px;
+    
+}
+.contentsDesigning h2
+{
+  font-size: 28px;
+}
+.contentsDesigning {
+    
+    height:auto;
+    
+    padding: 50px 0px 30px 0px;
+}
+#designDevelopservice
+{
+  padding:30px 0px;
+}
+.serviceInner h3
+{
+  font-size: 19px;
+}
+.range h1 {
+   text-align: center;
+    font-size: 30px;
+    line-height: 30px;
+    padding: 10px 0px;
+}
+.range {
+    margin-top: 20px;
+    border-left: solid 1px #fff;
+    padding-left: 20px;
+}
+#secondServiceDesign {
+   
+    height:auto;
+    padding: 50px 0px 40px 0px;
+   
+}
+.headingAll h3 {
+    
+    font-size: 34px;
+}
+#contact h2
+{
+  font-size: 23px;
+}
+}
+
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) 
+{
+#bg-head
+{ 
+background-image: url(../images/bg1.png);
+height:668px;
+background-position:right; 
+background-repeat: no-repeat;
+}
+.header
+{
+    padding-top: 20px; 
+	width:100%;
+    margin:auto; 
+}
+.logo
+{
+	float:none;
+
+}
+.header1
+{
+  padding: 6px 0px; 
+  width: 100%;
+
+}
+
+.logo h1
+{
+	font-family: 'Lato', sans-serif;
+	font-weight: bold;
+	font-size: 22px;
+	padding: 10px 0px 0px 0px;
+}
+.menu
+  { 
+   
+    padding-left: 0px;
+   margin-top: -37px;
+   position: relative;
+   z-index:1;
+
+
+  }
+  .container-fliuid
+  {
+  	margin: 0px; 
+  	padding: 0px;
+  }
+
+  .getquote
+  { 
+    background-color: #DC3545;
+    padding: 7px 15px;
+    margin-top: 9px;
+    right: 0px;
+    border: none;
+    font-size: 12px;
+    margin-left: 0px;
+    float:none;
+
+   }
+   .getquote:hover
+   {
+    
+    background-color:#B51020;
+   }
+
+
+   .heading-content
+  {
+    position:static;
+    margin-top: 130px;
+    padding-left: 0px;
+    text-align: center;
+  }
+  .heading-content h1
+  {
+  	font-size: 50px;
+  	color: #1AE1FF;
+  	
+  	line-height:32px;
+  }
+  .heading-content span
+  {
+
+  font-size: 20px;
+  color: #EDF1F1;
+  line-height: 0px;
+  }
+   .heading-content a
+   {
+    text-decoration: none;
+   }
+
+  .btn1
+  { 
+  	
+  	padding: 7px 15px;
+  	border-radius: 20px;
+  	font-size: 13px;
+   
+    
+
+   }
+
+   .serviceHeading
+   { 
+    margin: 0px; 
+   	padding:25px 30px;
+   	background-color: #F2F1F1;
+    
+   }
+   .breakContent br
+   {
+     display: none;
+   }
+   .serviceHeading h1
+   {
+     font-size: 43px;
+     
+     line-height: 55px;
+     padding: 10px 20px ;
+     text-align: center;
+     
+     text-align:center;
+     text-transform: uppercase;
+   }
+  .serviceHeading-second
+    { padding:50px 40px;
+     background-color: #FFF43F;
+    }
+    .serviceHeading-second h2
+    {
+       font-size: 23px;
+    }
+    .serviceHeading h2
+    {
+    	 font-size: 23px;
+    }
+#service-section p
+{
+	font-size: 14px;
+}
+.hovereffect h2
+{
+ font-size: 20px;
+ padding-top: 20%;
+}
+
+
+.innerConnect{
+    
+	margin: 20px;
+	background-color: #fff; 
+	padding: 20px;
+}
+.innerConnect h1
+{
+
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  padding: 3% 0 5px 0px;
+ 
+}
+.innerConnect i
+{
+	font-size: 21px;
+	color: #000;
+}
+.innerConnect p
+{
+  font-size: 14px;
+}
+#clients h2
+{
+	font-size: 25px;
+	padding-top: 30px;
+}
+#portfolio
+{
+	height: auto;
+}
+.contentsPortfolio
+ {
+   padding:20px 0px 25px 0px;
+
+
+ }
+.contentsPortfolio h1
+{
+	font-size: 20px;
+}
+.btn2{ 
+  border:solid 2px #FFD301;
+  padding: 5px 14px;
+  border-radius:30px;
+  background-color: transparent;
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 14px;
+ }
+#about h1
+{
+	font-size: 27px;
+}
+#about p
+{
+	font-size: 14px;
+}
+.progressbarDiv
+{
+  margin-top: 20px;
+}
+.Service-in-black
+    { padding: 20px 0px 15px 20px;
+      height:auto;
+      background-color: #000;
+    }
+    #serviceTotal h1
+    {
+       color: #fff;
+       font-size:20px;
+       padding-bottom: 0px;
+       font-weight: bold;
+       font-family: 'Montserrat', sans-serif;
+       line-height: 45px;
+       text-transform: uppercase;;
+    }
+.border1
+{
+	margin-top: 0px;
+	padding-top: 0px;
+}
+#serviceTotal h2
+{
+   font-size: 22px;
+   line-height: 25px;
+}
+.innerServices
+    {
+      padding:34px 30px;
+      border-right: solid 1px #ccc;
+      border-bottom: solid 1px #ccc;
+     }
+
+     #client h2
+     {
+     	font-size: 25px;
+     	margin:20px 20px;
+
+     }
+     #contact
+{
+  padding:20px 0px;
+  
+}
+#contact h2
+{
+	font-size: 25px;
+}
+.contact-details
+{
+	margin-top: 30px;
+}
+#contact h2
+{
+font-size: 21px;
+}
+.contact-details p
+{
+	font-size: 14px;
+}
+#web-design h3
+{
+	font-size: 40px;
+}
+#web-design, #seo, #smo, #smm, #ppc
+{
+  padding: 50px 0px 30px 0px;
+  border-bottom: solid 1px #ccc;
+}
+.contentsDesigning
+{
+  background-color: #B51020;
+  height:auto;
+  
+  padding:50px 0px 50px  0px;
+  
+}
+.contentsDesigning h2
+{
+	font-size: 30px;
+}
+#secondServiceDesign
+{
+   background-image: url(../images/backbg1.jpg);
+   height:auto;
+   padding: 10px 0px 50px 0px;
+   background-size: cover;
+}
+.leftImage1{ margin-top: 50px; }
+#designDevelopservice
+{
+  padding:20px 0px;
+}
+.range
+
+{text-align: center;
+ margin-top: 20px;
+  border-bottom: solid 1px #fff;
+  border-left: 0px;
+  padding-left: 0px;
+}
+.range h1
+{
+	padding-top: 0px;
+}
+.range p
+{
+	text-align: center;
+	padding-left: 0px;
+}
+.range:nth-child(3)
+{
+    border-right: solid 0px #fff;
+}
+#secondServiceDesign p
+{
+  
+  font-size: 15px;
+  padding-right: 0px;
+  text-align:center;
+}
+
+.headingAll h3
+{
+ font-family: 'Francois One', sans-serif;
+ font-weight: normal;
+ color: #000;
+  font-size: 30px;
+  margin-top: 20px;
+}
+.headingAll h4
+{
+ font-family: 'Francois One', sans-serif;
+ font-weight: normal;
+ color: #000;
+  font-size: 45px;
+  margin-top: 50px;
+}
+.headingAll p
+{
+  font-family: 'Lato', serif;
+    line-height: 23px;
+    color: #000;
+    text-align: justify;
+    
+}
+
+
+
+.contentsPortfolio h1 {
+
+    font-size: 0.98em;
+
+}
+.btn2
+{
+  font-size: 12px;
+   padding: 3px 10px;
+}
+
+.navbar-nav 
+{
+  background-color: rgba(0,0,0,0.7);
+  padding-left: 10px;
+  padding-bottom: 15px;
+}
+#service-section i
+{
+ font-size: 22px;
+}
+
+}
+
+
+
+
+
+
+
